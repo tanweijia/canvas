@@ -206,3 +206,6 @@ window.cancelAnimationFrame = (window.cancelRequestAnimationFrame || window.webk
 总结
 要实现动画，一定要熟练的使用 canvas API 和对 JavaScript 有一定的了解。
 动画的实质就是由一幅幅不同的静态画面以极快的速度连续播放从而产生物体运动或变化。
+# 了解更多https://www.w3cschool.cn/xjmuw/xjmuw-km4925xb.html
+
+# 微信小程序画布 canvas https://www.w3cschool.cn/weixinapp/weixinapp-canvas.html
